@@ -34,3 +34,4 @@ def generate_sync_B(Fs):
     (t >= 34*T) * (t <= 37*T)
     
     sync_B[array_0_1] = 244
+    return sync_B
